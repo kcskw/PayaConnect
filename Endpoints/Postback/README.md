@@ -1,6 +1,6 @@
 # Postback Configs Endpoint
 
-The purpose of theis endpoint is to allow for configuration of a POstback Configuration vai the API. 
+The purpose of theis endpoint is to allow for configuration of a Postback Configuration vai the API. 
 Visit Postback Configs for more informaion about what these are and how they can be used.
 
 ## Fields
